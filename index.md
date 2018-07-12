@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/scinoptica/oafinder/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scinoptica/oafinder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*	1findr, https://1findr.1science.com/home. Index: wissenschaftliche Dokumente, speziell Open-Access-Werke, aktuell ca. 90 Millionen Dokumente, davon 27 Millionen Open Access, allesamt Verweise auf Peer-Review-geprüfte Journalartikel, soll zukünftig aber um andere Dokumenttypen ergänzt werden.
+*	BASE, https://www.base-search.net/, Open-Access-Suchmaschine der Universität Bielefeld. Da BASE nicht ausschließlich Open-Access-Inhalte nachweist, sollte man die Suchoptionen so anpassen, dass – soweit möglich – nur Open-Access-Dokumente als Ergebnisse angezeigt werden.
+*	Google Scholar, https://scholar.google.com/, kennzeichnet Open-Access-Texte in der Regel durch den Hinweis [PDF] oder [HTML] in der Ergebnisliste. Besonders die Markierung [HTML] kann leider trügerisch sein, da unter Umständen nur Teile eines Werks, z.B. eines Buches in Google Books, einsehbar sind.
+*	Das Browser-Plug-In unpaywall.org, http://unpaywall.org/, (verfügbar für die Browser Firefox und Chrome) weist Internetnutzer, die beim Recherchieren auf eine wissenschaftliche Publikation stoßen, zu der ihre Einrichtung keinen Zugang hat, automatisch auf verfügbare Open-Access-Versionen hin.
+*	Der Open Access Button, https://openaccessbutton.org/, kann sowohl wie eine Suchmaschine als auch als Browser-Plug-In genutzt werden. Existiert noch keine Open-Access-Fassung eines publizierten Inhaltes, können Plug-In-Nutzer/innen mit Klick auf den Button eine E-Mail an die Autorin/den Autoren der Publikation versenden und um die Bereitstellung einer Open-Access-Version bitten. Wer über das Web-Interface sucht und keinen Treffer erhält, findet dort ebenfalls eine Möglichkeit, mit der Autorin/dem Autoren in Kontakt zu treten.
+*	Auch das Plug-In Kopernio,https://kopernio.com/, (ebenfalls verfügbar für die Browser Firefox und Chrome) unterstützt die Suche nach Open-Access-Dokumenten. Für zahlungspflichtige Artikel, die Sie in Ihrem Browser aufrufen und auf die Sie keinen Zugriff haben, sucht Kopernio eine alternative Version, z.B. einen Preprint oder eine andere Fassung, die Open Access genutzt werden kann. 
