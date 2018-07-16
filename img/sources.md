@@ -1,0 +1,2 @@
+- https://pixabay.com/de/lupe-suche-suchleiste-finden-icon-1976105/ (Pixabay, CC0)
+- https://commons.wikimedia.org/wiki/File:Open_Access_logo_PLoS_white.svg (WikiCommons, CC0)
