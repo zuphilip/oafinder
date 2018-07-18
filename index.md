@@ -1,21 +1,23 @@
 
-## Akademische Suchmaschinen
+## Academic Search Engines
 
-*	**1findr**, https://1findr.1science.com/home. Index: wissenschaftliche Dokumente, speziell Open-Access-Werke, aktuell ca. 90 Millionen Dokumente, davon 27 Millionen Open Access, allesamt Verweise auf Peer-Review-geprüfte Journalartikel, soll zukünftig aber um andere Dokumenttypen ergänzt werden.
-*	**BASE**, https://www.base-search.net/, Open-Access-Suchmaschine der Universität Bielefeld. Da BASE nicht ausschließlich Open-Access-Inhalte nachweist, sollte man die Suchoptionen so anpassen, dass – soweit möglich – nur Open-Access-Dokumente als Ergebnisse angezeigt werden.
-*	**Google Scholar**, https://scholar.google.com/, kennzeichnet Open-Access-Texte in der Regel durch den Hinweis [PDF] oder [HTML] in der Ergebnisliste. Besonders die Markierung [HTML] kann leider trügerisch sein, da unter Umständen nur Teile eines Werks, z.B. eines Buches in Google Books, einsehbar sind.
-*	[**Microsoft Academic**](https://academic.microsoft.com/) listet bei einem einzelnen Titel unter "Sources" die gefundenen Links zu einer Publikation auf und bei Übersichtsseiten wird ein Link zum Paper (soweit gefunden) unter "Download" bereitgestellt.
-*	[**Semantic Scholar**](https://www.semanticscholar.org/) liefert häufig bei Publikationen direkt PDFs an oder alternativ einen Link auf ein PDF.
-*	[**CORE**](https://core.ac.uk/) aggregiert Open Access Publikationen von Repositorien und Zeitschriften weltweit.
+*	[**1findr**] (https://1findr.1science.com/home)
+Index: scientific documents, especially Open Access works, currently about 90 million documents, 27 million of them Open Access, all of them peer-reviewed journal articles, but other document types are to be added in the future.
+Checked 2018-07-17
+*	[**BASE**], https://www.base-search.net/, Bielefeld University's Open Access search engine. Since BASE does not only provide records of Open Access content, the search options should be adapted in such a way that - as far as possible - only Open Access documents are displayed as results.
+*	[**Google Scholar**], https://scholar.google.com/, indicates Open Access documents by the reference [PDF] or[HTML] in the result list. Especially the marking [HTML] can be deceptive, because sometimes only parts of a work, e.g. a book, are visible in Google Books.
+*	[**Microsoft Academic**](https://academic.microsoft.com/) lists the links found for a Open Access publication under "Sources", for overview pages a link to the paper (if found) is provided under "Download".
+*	[**Semantic Scholar**](https://www.semanticscholar.org/) often delivers directly PDFs or alternatively a link to a PDF.
+*	[**CORE**](https://core.ac.uk/) aggregates Open Access publications from repositories and journals worldwide.
 
 
 ## Browser-Plug-ins
 
-*	Das Browser-Plug-In **unpaywall.org**, http://unpaywall.org/, (verfügbar für die Browser Firefox und Chrome) weist Internetnutzer, die beim Recherchieren auf eine wissenschaftliche Publikation stoßen, zu der ihre Einrichtung keinen Zugang hat, automatisch auf verfügbare Open-Access-Versionen hin.
-*	Der **Open Access Button**, https://openaccessbutton.org/, kann sowohl wie eine Suchmaschine als auch als Browser-Plug-In genutzt werden. Existiert noch keine Open-Access-Fassung eines publizierten Inhaltes, können Plug-In-Nutzer/innen mit Klick auf den Button eine E-Mail an die Autorin/den Autoren der Publikation versenden und um die Bereitstellung einer Open-Access-Version bitten. Wer über das Web-Interface sucht und keinen Treffer erhält, findet dort ebenfalls eine Möglichkeit, mit der Autorin/dem Autoren in Kontakt zu treten.
-*	Auch das Plug-In **Kopernio**, https://kopernio.com/, (ebenfalls verfügbar für die Browser Firefox und Chrome) unterstützt die Suche nach Open-Access-Dokumenten. Für zahlungspflichtige Artikel, die Sie in Ihrem Browser aufrufen und auf die Sie keinen Zugriff haben, sucht Kopernio eine alternative Version, z.B. einen Preprint oder eine andere Fassung, die Open Access genutzt werden kann. 
-*	Der [**Google Scholar Button**](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=en) ist eine Browsererweiterung (verfügbar für die Browser Firefox und Chrome), die die Suche in Google Scholar erleichert: Auf einer beliebigen Webseite den Titel der gesuchten Publikation markieren – bei Klick auf den GS Button öffnet sich ein kleines Fenster, welches Suchergebnisse aus Google Scholar listet und markiert, ob Volltext als PDF oder HTML verfügbar ist.
+*	The browser plug-in [**unpaywall.org**], http://unpaywall.org/, (available for Firefox and Chrome browsers) automatically directs to available Open Access versions if your institution has no access to a publication.
+*	The [**Open Access Button**], https://openaccessbutton.org/, can be used as a search engine as well as a browser plug-in. If an Open Access version of published content does not yet exist, plug-in users can send an e-mail to the author of the publication and ask for an Open Access version to be made available. If you search via the web interface and do not receive a hit, you will also find a way to contact the author.
+*	The plug-in [**Kopernio**], https://kopernio.com/, (also available for Firefox and Chrome browsers) also supports the search for Open Access documents. Kopernio will search for an alternative version, e.g. a preprint or another version that can be used in Open Access. 
+* The [**Google Scholar Button**](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=en) is a browser extension (available for Firefox and Chrome browsers) that makes searching Google Scholar easier: Mark the title of the publication you are looking for on any website - by clicking on the GS button a small window opens which lists search results from Google Scholar and marks whether full text is available as PDF or HTML.
 
 ## Resolver
 
-*	Der alternative DOI-Resolver **DOAI**, http://doai.io/, ermöglicht den Direktaufruf einer Open-Access-Version: Einfach die DOI der gesuchten Publikation an die URL [doai.io](http://doai.io/) anhängen – oder die Suche auf der Webseite nutzen.
+* The alternative DOI resolver[**DOAI**], http://doai.io/, enables direct access to an Open Access version: Simply attach the DOI of the required publication to the URL[doai.io](http://doai.io/) - or use the search function on the website.
